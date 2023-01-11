@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmillio&show_icons=true&bg_color=DEG,fe5b13,ff5ad8&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmillio&langs_count=8&bg_color=DEG,fe5b13,ff5ad8&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/gmillio/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmillio&langs_count=8&bg_color=DEG,fe5b13,ff5ad8&hide_border=true&text_color=ffffff&title_color=ffffff&icon_color=ffffff)](https://github.com/gmillio/github-readme-stats) 
  
 
 
